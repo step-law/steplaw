@@ -59,4 +59,4 @@ If you find our work helpful, feel free to give us a cite :-)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=step-law/steplaw&type=Date)](https://star-history.com/#step-law/steplaw)
+[![Star History Chart](https://api.star-history.com/svg?repos=step-law/steplaw&type=Timeline)](https://star-history.com/#step-law/steplaw&Timeline)
