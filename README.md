@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="assets/logo.jpeg" alt="Step Law" width="200">
+</p>
+
+
 
 <p align="center">
     <h1 align="center">
