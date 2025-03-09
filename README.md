@@ -50,7 +50,6 @@ If you find our work helpful, feel free to give us a cite :-)
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2503.04715}, 
 }
-}
 ```
 
 ## Star History
