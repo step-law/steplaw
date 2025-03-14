@@ -70,6 +70,26 @@ Example:
 python code/fit_tool.py pred-opt-lr-bs 7e9 1.4e12 2048
 ```
 
+### Log Analysis Tool
+
+We also provide a log analysis tool to analyze training logs and extract smooth loss measurements:
+
+```bash
+python code/log_analysis.py quick-check [base_dir] [dir_pattern] [--target-iter] [--max-cnt] [--pretty]
+```
+
+Parameters:
+- `base_dir`: Base directory containing training logs
+- `dir_pattern`: Regex pattern to match experiment directories
+- `--target-iter`: Target iteration to analyze (optional)
+- `--max-cnt`: Maximum number of log entries to process (default: 32768)
+- `--pretty`: Print results in a pretty table format (optional)
+
+Example:
+```bash
+python code/log_analysis.py quick-check ./logs "exp_.*" --pretty
+```
+
 For more training details and experimental results, please refer to our [Wandb](https://wandb.ai/billzid/predictable-scale) page.
 
 ## Citation
