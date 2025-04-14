@@ -11,11 +11,12 @@
 </p>
 
 <p align="center">
-        <a href="https://step-law.github.io/">Home Page</a>&nbsp&nbsp | &nbsp&nbsp<a href="https://wandb.ai/billzid/predictable-scale">Wandb</a>&nbsp&nbsp | &nbsp&nbsp<a href="https://arxiv.org/abs/2503.04715">Paper</a>
+        <a href="https://step-law.github.io/">Home Page</a>&nbsp&nbsp | &nbsp&nbsp<a href="https://huggingface.co/StepLaw">HuggingFace</a>&nbsp&nbsp | &nbsp&nbsp<a href="https://wandb.ai/billzid/predictable-scale">Wandb</a>&nbsp&nbsp | &nbsp&nbsp<a href="https://arxiv.org/abs/2503.04715">Paper</a>
 </p>
 
 
 ## News
+- 🔥🔥🔥 ```2024/04/14``` We have released all our fitted law checkpoints on [HuggingFace](https://huggingface.co/StepLaw)!
 - 🔥 ```2024/03/10``` We have released our fitting code and fitted model parameters! Check them in the `code` and `data` folders.
 - 🔥 ```2024/03/09``` We have released our training logs! Access them on [Wandb](https://wandb.ai/billzid/predictable-scale).
 - 🔥 ```2024/03/08``` All smooth loss heatmaps have been released on our  [homepage](https://step-law.github.io/#steplawtool).
@@ -28,7 +29,7 @@
 - [x] Smooth loss heatmaps
 - [x] Thousands of training logs
 - [x] Fitting code
-- [ ] Checkpoints
+- [x] Checkpoints
 
 
 ## Introduction
